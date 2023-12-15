@@ -1,9 +1,6 @@
 # -*- coding:utf-8 -*-
 # @project: ChatGLM-Finetuning
 # @filename: predict
-# @author: 刘聪NLP
-# @zhihu: https://www.zhihu.com/people/LiuCongNLP
-# @contact: logcongcong@gmail.com
 # @time: 2023/12/6 20:41
 """
     文件说明：
